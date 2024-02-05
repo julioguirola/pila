@@ -1,0 +1,14 @@
+/home/guirola/Documents/2.1/ED/pila/bin/Debug/net8.0/pila
+/home/guirola/Documents/2.1/ED/pila/bin/Debug/net8.0/pila.deps.json
+/home/guirola/Documents/2.1/ED/pila/bin/Debug/net8.0/pila.runtimeconfig.json
+/home/guirola/Documents/2.1/ED/pila/bin/Debug/net8.0/pila.dll
+/home/guirola/Documents/2.1/ED/pila/bin/Debug/net8.0/pila.pdb
+/home/guirola/Documents/2.1/ED/pila/obj/Debug/net8.0/pila.GeneratedMSBuildEditorConfig.editorconfig
+/home/guirola/Documents/2.1/ED/pila/obj/Debug/net8.0/pila.AssemblyInfoInputs.cache
+/home/guirola/Documents/2.1/ED/pila/obj/Debug/net8.0/pila.AssemblyInfo.cs
+/home/guirola/Documents/2.1/ED/pila/obj/Debug/net8.0/pila.csproj.CoreCompileInputs.cache
+/home/guirola/Documents/2.1/ED/pila/obj/Debug/net8.0/pila.dll
+/home/guirola/Documents/2.1/ED/pila/obj/Debug/net8.0/refint/pila.dll
+/home/guirola/Documents/2.1/ED/pila/obj/Debug/net8.0/pila.pdb
+/home/guirola/Documents/2.1/ED/pila/obj/Debug/net8.0/pila.genruntimeconfig.cache
+/home/guirola/Documents/2.1/ED/pila/obj/Debug/net8.0/ref/pila.dll
